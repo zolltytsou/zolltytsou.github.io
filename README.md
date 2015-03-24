@@ -1,4 +1,4 @@
 zolltytsou.github.io
 ====================
 
-http://blog.zollty.com
+http://assets.zollty.com
